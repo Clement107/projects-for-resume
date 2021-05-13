@@ -1,3 +1,5 @@
+# created 03/2021 by Samuel Haupt
+
 import copy
 
 class GamePiece(object):
