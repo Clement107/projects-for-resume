@@ -1,3 +1,5 @@
+# created 04/2021 by Samuel Haupt
+
 import investpy
 from datetime import date, timedelta
 from operator import itemgetter
